@@ -16,6 +16,7 @@ The goal of this project was to reduce Time-to-Market by 30% by transitioning fr
 * **Efficiency:** QA verification time reduced by 80% via AI-assisted automation.
 
 ## 📂 Repository Content
-* [BPMN Diagrams](./diagrams/) - Visualizing the workflow transformation.
-* [RACI Matrix](./docs/raci.md) - Defined roles and responsibilities.
-* [AI Packaging Control](./docs/prompt-ai.md) - Technical specification of the AI QA system.
+* [cite_start][Full Case Study](./docs/case-study.pdf) - Detailed project description and results[cite: 130, 131].
+* [cite_start][BPMN Diagrams](./diagrams/) - Visualizing the workflow transformation[cite: 143, 144].
+* [cite_start][RACI Matrix](./docs/raci.pdf) - Defined roles and responsibilities[cite: 185, 186].
+* [cite_start][AI Packaging Control](./docs/prompt-ai.pdf) - Technical specification of the AI QA system[cite: 162, 167].
